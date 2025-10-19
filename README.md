@@ -10,9 +10,9 @@ public class Main {
 
     public static void main(String[] args) {
         compare(10);
-//        compare(2);
-//        compare(5);
-//        compare(15);
+        //compare(2);
+        //compare(5);
+        //compare(15);
     }
 
     public static void compare(int day) {
